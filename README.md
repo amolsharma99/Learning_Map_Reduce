@@ -9,6 +9,6 @@ Input - value
 Output - key, value
 
 Reducer Fn -
-Input - key, value
+Input - key, list of values
 Output - key, value (after transformation)
 
